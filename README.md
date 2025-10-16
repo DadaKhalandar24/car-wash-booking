@@ -55,3 +55,8 @@ A full-stack MERN application for managing car wash bookings with real-time sear
 1. **Navigate to backend directory**
    ```bash
    cd Backend
+### TO run backend : npm install 
+2. npm run dev
+
+### TO run frontend : npm install
+2.npm start 
